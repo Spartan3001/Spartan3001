@@ -1,6 +1,5 @@
 -  Hi, I’m Bill
 -  I’m interested in AI and deep learning
--  I’m currently learning Python and how to use it in deep lerning and AI
 - HMU on instagram (@Bspan0s) or here  
 
 <!---
